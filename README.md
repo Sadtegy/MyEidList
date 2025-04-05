@@ -45,4 +45,3 @@ Stay tuned – this is just the beginning!
 
 Made with 💻 and ☕ while learning Go.
 
->>>>>>> c928191542e8a21e931f47dde89beedd54fb716f
