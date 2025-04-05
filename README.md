@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD:README.md
 # MyEidList 🕌✨
 
 **MyEidList** is a simple command line to-do list app made especially for Eid planning.
