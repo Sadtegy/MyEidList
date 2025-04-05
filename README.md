@@ -20,10 +20,8 @@ Stay tuned – this is just the beginning!
 ---
 
 Made with 💻 and ☕ while learning Go.
-=======
 
 
-=======
 # MyEidList 🕌✨
 
 **MyEidList** is a simple command line to-do list app made especially for Eid planning.
