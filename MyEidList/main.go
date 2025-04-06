@@ -20,7 +20,7 @@ func main() {
 
 	for index, task := range todoItems {
 
-		fmt.Println(index, task) //after using is it well print the result ofc
+		fmt.Printf("%d. %s \n", index+1, task) //after using is it well print the result ofc
 
 	}
 
